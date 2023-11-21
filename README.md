@@ -30,8 +30,3 @@ The project is organized along the following steps:
 4. Content Based Recommendations (EXTRA - NOT REQUIRED)
 5. Matrix Factorization
 
-I. Exploratory Data Analysis
-II. Rank Based Recommendations
-III. User-User Based Collaborative Filtering
-IV. Content Based Recommendations (EXTRA - NOT REQUIRED)
-V. Matrix Factorization
